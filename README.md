@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Đỗ Khoa Trang, MSSV 226182.
+Đây là README được chỉnh sửa từ nhánh conflict-demo.
